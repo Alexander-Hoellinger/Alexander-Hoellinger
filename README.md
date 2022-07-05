@@ -12,7 +12,7 @@
 </br>
 
 ### Connect With Me 🔗
-💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
+💬 Feel more than welcome to contact me to connect or if you have questions regarding mentoring/VC/tech! </br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-hoellinger/)
 
 </br>
