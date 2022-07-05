@@ -21,11 +21,11 @@
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
 
-<hr />
-
 
 
 </br></br>
+
+
 <details>
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
   <br/>
