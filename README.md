@@ -32,10 +32,9 @@
  
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>✨&nbsp;&nbsp;Technologies I love and use ⚡&nbsp;Me</b></summary>
   <br/>
   
-### Technologies I love and use ⚡
 1) **SQL & R** (6 month Google Data Analytics Professional Certificate)
 2) **Python** (90 hour Data Analytics Course by Le Wagon)
 3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon)
