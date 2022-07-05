@@ -29,10 +29,9 @@
 
 ## Technologies I love and use ⚡
 1) **SQL & R** (6 month Google Data Analytics Professional Certificate) </br> </br>
-👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting**, **venture capital** and audit. Additionally, I love providing mentorship through **coaching** of applicants applying to top business schools and consultancies worldwide for many years. </br></br>
-🌱 I am passionate about **innovative technologies** and my favourite topics are **FoodTech and AgTech**. </br></br>
-💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br></br>
+2) **Python** (90 hour Data Analytics Course by Le Wagon) </br></br>
+3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon) </br></br>
+4) Excel, Tableau, Power BI, Cognos (professional experience) </br></br>
  
-    
 <br/>
 
