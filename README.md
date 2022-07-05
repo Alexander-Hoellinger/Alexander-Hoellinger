@@ -45,8 +45,8 @@
 <details>
   <summary><b>&nbsp;&nbsp;Languages 🗣️&nbsp</b></summary>
   <br/>
-🇩🇪/🇦🇹 German
-🇬🇧 English
-🇪🇸 Spanish
+- German 🇩🇪/🇦🇹
+- English 🇬🇧
+- Spanish 🇪🇸
 
 </details> 
