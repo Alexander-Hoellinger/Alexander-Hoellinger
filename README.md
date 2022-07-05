@@ -17,7 +17,7 @@
 🌱 I am passionate about **innovative technologies** and my favourite topics are **FoodTech and AgTech**. </br></br>
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br></br>
    
- <b><i>I truly believe that technology has the power to change people's lives for the better. 
+ <b><i>I truly believe that technology has the power to change people's lives for the better. <b/><i/>
     
 <br/>
 <hr />
