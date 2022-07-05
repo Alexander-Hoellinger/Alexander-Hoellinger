@@ -32,7 +32,7 @@
  
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;Technologies I love and use ⚡&nbsp;Me</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Technologies & tools I love and use &nbsp</b></summary>
   <br/>
   
 1) **SQL & R** (6 month Google Data Analytics Professional Certificate)
