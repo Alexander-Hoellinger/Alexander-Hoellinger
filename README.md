@@ -1,11 +1,6 @@
 ## Hi there, welcome to my GitHub!   <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-
-
-
-
 <br/>
-
 
 ### Introduction 🚀
 🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and obtained a BSc in **Business Management** from **King's College London**. </br>
@@ -15,15 +10,12 @@
 💡 I'm currently learning SQL and R. </br>
 
 </br>
-   
-
 
 ### Connect With Me 🔗
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-hoellinger/)
 
-
-</br></br>
+</br>
 
 ### More About Me ✨
 <details>
@@ -36,7 +28,6 @@
 4) Excel, Tableau, Power BI, Cognos, SPSS (professional experience)
 
 </details> 
-
 
 <details>
   <summary><b>&nbsp;&nbsp;Languages 🗣️&nbsp</b></summary>
