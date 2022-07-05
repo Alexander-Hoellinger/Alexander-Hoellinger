@@ -37,7 +37,6 @@
 
 </details> 
 
-<br/>
 
 <details>
   <summary><b>&nbsp;&nbsp;Languages 🗣️&nbsp</b></summary>
