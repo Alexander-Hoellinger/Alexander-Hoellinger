@@ -51,11 +51,5 @@
 1) German 🇩🇪/🇦🇹
 2) English 🇬🇧
 3) Spanish 🇪🇸
-  
-   
-1) **SQL & R** (6 month Google Data Analytics Professional Certificate)
-2) **Python** (90 hour Data Analytics Course by Le Wagon)
-3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon)
-4) Excel, Tableau, Power BI, Cognos (professional experience)
 
 </details> 
