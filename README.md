@@ -1,12 +1,7 @@
 ## Hi there, welcome to my GitHub!  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
-<a href="https://www.linkedin.com/in/alexander-hoellinger/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:alex.hoellinger@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
 
 
 <br/>
@@ -19,11 +14,20 @@
 🤝 I am a **mentor** for applicants applying to top business schools and consultancies worldwide for many years. </br>
 💡 I'm currently learning SQL and R. </br>
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
+
+</br>
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
 
 ### Connect with me 🔗
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
+
+<a href="https://www.linkedin.com/in/alexander-hoellinger/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:alex.hoellinger@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 </br></br>
 
