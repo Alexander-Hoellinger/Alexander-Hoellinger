@@ -2,21 +2,22 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/">
+<a href="https://www.linkedin.com/in/alexander-hoellinger/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:murilommms@gmail.com">
+<a href="mailto:alex.hoellinger@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer** with a bachelor's degree in information systems. </br> </br>
-👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+🎓 I’m currently pursuing a MSc degree in **Digital Business** at **Esade** terminating in September 2023 and have successfully obtained a BSc degree in **Business Management** at **King's College London**. </br> </br>
+👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting**, **venture capital** and audit. Additionally, I love providing mentorship through **coaching** of applicants applying to top business schools and consultancies worldwide for many years. </br></br>
+🌱 I am passionate about **innovative technologies** and my favourite topics are **FoodTech and AgTech**. </br></br>
+💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br></br>
    
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+ <b><i>I truly believe that technology has the power to change people's lives for the better. 
     
 <br/>
 <hr />
