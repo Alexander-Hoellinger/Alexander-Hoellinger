@@ -30,9 +30,9 @@
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
   <br/>
   
-1) **SQL & R** (6 month Google Data Analytics Professional Certificate)
-2) **Python** (90 hour Data Analytics Course by Le Wagon)
-3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon)
+1) **SQL & R** (6-month Google Data Analytics Professional Certificate)
+2) **Python** (90-hour Data Analytics Course by Le Wagon)
+3) **HTML & CSS** (30-hour Web Dev Course by Le Wagon)
 4) Excel, Tableau, Power BI, Cognos (professional experience)
 
 </details> 
@@ -46,5 +46,14 @@
 1) German 🇩🇪/🇦🇹
 2) English 🇬🇧
 3) Spanish 🇪🇸
+
+</details> 
+
+<details>
+  <summary><b>&nbsp;&nbsp;Projects ⚡&nbsp</b></summary>
+  <br/>
+  
+1) FoodTech startup's website - [Local Grow](https://localgrowfarm.carrd.co) - development within 48-hr bootcamp by King's Entrepreneur Institute
+2) Local Grow's [App](https://localgrowfarm.carrd.co](https://debonair-butter-2631.glideapp.io)
 
 </details> 
