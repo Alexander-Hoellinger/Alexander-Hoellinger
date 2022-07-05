@@ -3,16 +3,16 @@
 <br/>
 
 ### Introduction 🚀
-🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and obtained a BSc in **Business Management** from **King's College London**. </br>
-👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting** and **venture capital**. </br>
-🌱 I am passionate about **innovative technologies**, especially in **FoodTech and AgTech**. </br>
-🤝 I am a **mentor** for applicants applying to top business schools and consultancies worldwide for many years. </br>
+🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and obtained a BSc in **Business Management** from **King's College London**. </br></br>
+👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting** and **venture capital**. </br></br>
+🌱 I am passionate about **innovative technologies**, especially in **FoodTech and AgTech**. </br></br>
+🤝 I am a **mentor** for applicants applying to top business schools and consultancies worldwide for many years. </br></br>
 💡 I'm currently learning SQL and R. </br>
 
 </br>
 
 ### Connect With Me 🔗
-💬 Feel more than welcome to contact me to connect or if you have questions regarding mentoring/VC/tech! </br>
+💬 Feel more than welcome to contact me to connect or if you have questions regarding mentoring/VC/tech! </br></br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-hoellinger/)
 
 </br>
