@@ -1,4 +1,4 @@
-# Hi there! I'm Alex, welcome to my GitHub.  👋
+## Hi there! I'm Alex, welcome to my GitHub.  👋
 
 <hr />
 
