@@ -17,11 +17,13 @@
 👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting** and **venture capital**. </br>
 🌱 I am passionate about **innovative technologies**, especially in **FoodTech and AgTech**. </br>
 🤝 I am a **mentor** for applicants applying to top business schools and consultancies worldwide for many years. </br>
+💡 I'm currently learning SQL and R. </br>
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
 
-
+### Connect with me 🔗
+💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
 
 </br></br>
 
@@ -33,7 +35,7 @@
 1) **SQL & R** (6-month Google Data Analytics Professional Certificate)
 2) **Python** (90-hour Data Analytics Course by Le Wagon)
 3) **HTML & CSS** (30-hour Web Dev Course by Le Wagon)
-4) Excel, Tableau, Power BI, Cognos (professional experience)
+4) Excel, Tableau, Power BI, Cognos, SPSS (professional experience)
 
 </details> 
 
