@@ -45,6 +45,6 @@
   
 1) FoodTech startup's website - [Local Grow](https://localgrowfarm.carrd.co) - development within 48-hr bootcamp by King's Entrepreneur Institute
 2) Local Grow's [App](https://debonair-butter-2631.glideapp.io)
-3) Many more to come
+3) Many more to come ...
 
 </details> 
