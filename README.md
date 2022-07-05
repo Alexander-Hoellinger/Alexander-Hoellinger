@@ -1,4 +1,4 @@
-## Hi there, welcome to my GitHub!  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hi there, welcome to my GitHub!  <a href="https://www.gautamkrishnar.com/"><img src="	https://media.giphy.com/media/mlu9wJsWtPfq/giphy.gif" width="5%"></a>
 
 
 
@@ -7,7 +7,7 @@
 <br/>
 
 
-### About Me 🚀
+### Introduction 🚀
 🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and obtained a BSc in **Business Management** from **King's College London**. </br>
 👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting** and **venture capital**. </br>
 🌱 I am passionate about **innovative technologies**, especially in **FoodTech and AgTech**. </br>
@@ -19,7 +19,7 @@
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
 
-### Connect with me 🔗
+### Connect With Me 🔗
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
 
 <a href="https://www.linkedin.com/in/alexander-hoellinger/">
@@ -31,7 +31,7 @@
 
 </br></br>
 
-
+### About Me 🚀
 <details>
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
   <br/>
