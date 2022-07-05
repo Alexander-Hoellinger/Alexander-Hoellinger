@@ -30,7 +30,7 @@
 3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon) </br>
 4) Excel, Tableau, Power BI, Cognos (professional experience) </br>
  
-
+</br></br>
 <details>
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
   <br/>
