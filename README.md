@@ -16,7 +16,7 @@
 
 </br>
    
- **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
+
 
 ### Connect With Me 🔗
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
