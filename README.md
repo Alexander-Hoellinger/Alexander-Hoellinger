@@ -24,12 +24,7 @@
 <hr />
 
 
-### Technologies I love and use ⚡
-1) **SQL & R** (6 month Google Data Analytics Professional Certificate) </br>
-2) **Python** (90 hour Data Analytics Course by Le Wagon) </br>
-3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon) </br>
-4) Excel, Tableau, Power BI, Cognos (professional experience) </br>
- 
+
 </br></br>
 <details>
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
