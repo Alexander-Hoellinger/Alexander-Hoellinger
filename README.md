@@ -48,8 +48,8 @@
   <summary><b>&nbsp;&nbsp;Languages 🗣️&nbsp</b></summary>
   <br/>
   
-🇩🇪/🇦🇹 German 
-🇬🇧 English 
-🇪🇸 Spanish 
+1) German 🇩🇪/🇦🇹
+2) English 🇬🇧
+3) Spanish 🇪🇸
 
 </details> 
