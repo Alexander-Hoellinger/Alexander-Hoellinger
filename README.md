@@ -27,8 +27,8 @@
 <hr />
 <br/>
 
-## 🤖  Technologies I love and use
-1️⃣ **SQL & R** (6 month Google Data Analytics Professional Certificate) </br> </br>
+## Technologies I love and use ⚡
+- **SQL & R** (6 month Google Data Analytics Professional Certificate) </br> </br>
 👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting**, **venture capital** and audit. Additionally, I love providing mentorship through **coaching** of applicants applying to top business schools and consultancies worldwide for many years. </br></br>
 🌱 I am passionate about **innovative technologies** and my favourite topics are **FoodTech and AgTech**. </br></br>
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br></br>
