@@ -19,7 +19,8 @@
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
 
 ### Connect With Me 🔗
-📫 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
+💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexander-hoellinger/) or <a href="mailto:alex.hoellinger@gmail.com"> </a>
 
 <a href="https://www.linkedin.com/in/alexander-hoellinger/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
