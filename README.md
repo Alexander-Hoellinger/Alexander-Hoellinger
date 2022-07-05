@@ -23,13 +23,9 @@
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
     
-<br/>
 <hr />
 
-  
 
-
-<br/>
 
 ## 🤖  Technologies I love and use
 1️⃣ **SQL & R** (6 month Google Data Analytics Professional Certificate) </br> </br>
