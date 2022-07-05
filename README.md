@@ -10,8 +10,6 @@
 </a>
 
 
-
-<br/>
 <br/>
 
 
@@ -33,5 +31,3 @@
 3) **HTML & CSS** (30 hour Web Dev Course by Le Wagon) </br></br>
 4) Excel, Tableau, Power BI, Cognos (professional experience) </br></br>
  
-<br/>
-
