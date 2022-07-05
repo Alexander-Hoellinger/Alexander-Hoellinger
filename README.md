@@ -31,7 +31,7 @@
 
 </br></br>
 
-### About Me 🚀
+### More About Me ✨
 <details>
   <summary><b>&nbsp;&nbsp;Technologies & tools I love and use 🛠️&nbsp</b></summary>
   <br/>
