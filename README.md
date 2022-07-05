@@ -21,10 +21,9 @@
 💬 Feel more than welcome to contact me via Linkedin or E-mail to network or if you have questions regarding mentoring! </br>
    
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
-   
-<br/>
+
 <hr />
-<br/>
+
 
 ### Technologies I love and use ⚡
 1) **SQL & R** (6 month Google Data Analytics Professional Certificate) </br>
