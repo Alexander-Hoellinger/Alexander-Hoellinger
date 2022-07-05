@@ -36,4 +36,4 @@
  **<i>I truly believe that technology has the power to change people's lives for the better.</i>**
     
 <br/>
-<hr />
+
