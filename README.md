@@ -3,9 +3,9 @@
 <br/>
 
 ### Introduction 🚀
-🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and obtained a BSc in **Business Management** from **King's College London**. </br></br>
+🎓 I’m pursuing a MSc in **Digital Business** at **Esade** and previously obtained a BSc in **Business Management** from **King's College London**. </br></br>
 👨🏼‍💻 My professional experience mainly includes roles in **strategy consulting** and **venture capital**. </br></br>
-🌱 I am passionate about **innovative technologies**, especially in **FoodTech and AgTech**. </br></br>
+🌱 I am passionate about **innovative technologies**, especially within **FoodTech and AgTech**. </br></br>
 🤝 I am a **mentor** for applicants applying to top business schools and consultancies worldwide for many years. </br></br>
 💡 I'm currently learning SQL and R. </br>
 
