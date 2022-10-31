@@ -25,7 +25,7 @@
 1) **SQL & R** (6-month Google Data Analytics Professional Certificate)
 2) **Python** (90-hour Data Analytics Course by Le Wagon)
 3) **HTML & CSS** (30-hour Web Dev Course by Le Wagon)
-4) Excel, Tableau, Power BI, Cognos, SPSS (professional experience)
+4) Excel, PowerPoint, Tableau (official student ambassador), Power BI, Cognos, SPSS (hihgly proficient)
 
 </details> 
 
